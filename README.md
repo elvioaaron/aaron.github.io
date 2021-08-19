@@ -1,5 +1,5 @@
-# aaron.github.io
+# elmer.github.io
 HOME
 
-<a href="HOME.html" style="text-decoration:none; color:#000">HOME</a>
+<a href="bio.html">BIO</a>
 
